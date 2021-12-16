@@ -6,7 +6,7 @@
 
 
 
-![appleOS](https://github.com/paulveillard/cybersecurity-macOS-iOS-security/blob/main/img/all-OS.png)
+![appleOS](https://github.com/paulveillard/cybersecurity-macOS-iOS-security/blob/main/img/macOS-iOS.png)
 
 
 ##  Table of Contents
