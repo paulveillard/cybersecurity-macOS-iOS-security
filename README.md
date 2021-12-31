@@ -74,9 +74,9 @@ A collection of ios security related resources
 Other amazingly awesome lists can be found in the
 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
+---
 
 **[`^        back to top        ^`](#)**
----
 
 ## License
 
